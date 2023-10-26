@@ -1,5 +1,6 @@
 # Jar-Stacker
 
-3D Model for jar stacker project for MECA 140
+3D Model for jar stacker project for MECA-140
 
 
+force pull test
